@@ -1,4 +1,4 @@
-module github.com/googollee/go-socket.io
+module github.com/pangdahua/go-socket.io
 
 require (
 	github.com/gin-gonic/gin v1.4.0
